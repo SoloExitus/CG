@@ -1,0 +1,20 @@
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\obj\Debug\Task6___LocalizationPointInConvexPolygon.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\obj\Debug\Task6___LocalizationPointInConvexPolygon.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\bin\Debug\Task6 - LocalizationPointInConvexPolygon.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\bin\Debug\Task6 - LocalizationPointInConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\bin\Debug\Task6 - LocalizationPointInConvexPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task6 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\bin\Debug\Task6 - LocalizationPointInConvexPolygon.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\bin\Debug\Task6 - LocalizationPointInConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\bin\Debug\Task6 - LocalizationPointInConvexPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\obj\Debug\Task6___LocalizationPointInConvexPolygon.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\obj\Debug\Task6___LocalizationPointInConvexPolygon.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task7 - LocalizationPointInConvexPolygon\obj\Debug\Task6 - LocalizationPointInConvexPolygon.pdb

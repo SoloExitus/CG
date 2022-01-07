@@ -1,0 +1,10 @@
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\bin\Release\Task5 - TestPointInPolygonAngleMethod.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\bin\Release\Task5 - TestPointInPolygonAngleMethod.exe
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\bin\Release\Task5 - TestPointInPolygonAngleMethod.pdb
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\obj\Release\Task5 - TestPointInPolygonAngleMethod.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\obj\Release\Task5___TestPointInPolygonAngleMethod.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\obj\Release\Task5___TestPointInPolygonAngleMethod.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\obj\Release\Task5 - TestPointInPolygonAngleMethod.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\obj\Release\Task5 - TestPointInPolygonAngleMethod.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\obj\Release\Task5 - TestPointInPolygonAngleMethod.exe
+C:\Users\Idea\source\repos\ВычГем\Task5 - TestPointInPolygonAngleMethod\obj\Release\Task5 - TestPointInPolygonAngleMethod.pdb

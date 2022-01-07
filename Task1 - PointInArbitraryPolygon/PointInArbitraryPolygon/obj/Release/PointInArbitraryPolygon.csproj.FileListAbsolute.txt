@@ -1,0 +1,10 @@
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\bin\Release\PointInArbitraryPolygon.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\bin\Release\PointInArbitraryPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\bin\Release\PointInArbitraryPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\obj\Release\PointInArbitraryPolygon.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\obj\Release\PointInArbitraryPolygon.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\obj\Release\PointInArbitraryPolygon.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\obj\Release\PointInArbitraryPolygon.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\obj\Release\PointInArbitraryPolygon.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\obj\Release\PointInArbitraryPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task1 - PointInArbitraryPolygon\PointInArbitraryPolygon\obj\Release\PointInArbitraryPolygon.pdb

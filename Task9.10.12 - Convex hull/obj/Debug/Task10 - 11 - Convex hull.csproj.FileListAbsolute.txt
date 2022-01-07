@@ -1,0 +1,20 @@
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\bin\Debug\Task10 - 11 - Convex hull.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\bin\Debug\Task10 - 11 - Convex hull.exe
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\bin\Debug\Task10 - 11 - Convex hull.pdb
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\obj\Debug\Task10___11___Convex_hull.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\obj\Debug\Task10___11___Convex_hull.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.exe
+C:\Users\Idea\source\repos\ВычГем\Task10 - 11 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.pdb
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\bin\Debug\Task10 - 11 - Convex hull.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\bin\Debug\Task10 - 11 - Convex hull.exe
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\bin\Debug\Task10 - 11 - Convex hull.pdb
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\obj\Debug\Task10___11___Convex_hull.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\obj\Debug\Task10___11___Convex_hull.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.exe
+C:\Users\Idea\source\repos\ВычГем\Task9.10.12 - Convex hull\obj\Debug\Task10 - 11 - Convex hull.pdb

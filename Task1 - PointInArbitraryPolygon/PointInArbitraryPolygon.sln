@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInArbitraryPolygon", "PointInArbitraryPolygon\PointInArbitraryPolygon.csproj", "{805C804B-9284-4F57-BE0D-0A81B1055A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805C804B-9284-4F57-BE0D-0A81B1055A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805C804B-9284-4F57-BE0D-0A81B1055A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805C804B-9284-4F57-BE0D-0A81B1055A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805C804B-9284-4F57-BE0D-0A81B1055A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA354EF9-C0FE-4308-BEFC-DF2A0651A597}
+	EndGlobalSection
+EndGlobal

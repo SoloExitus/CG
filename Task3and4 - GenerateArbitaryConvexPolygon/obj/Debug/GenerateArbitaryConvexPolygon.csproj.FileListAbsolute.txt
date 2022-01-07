@@ -1,0 +1,30 @@
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\bin\Debug\GenerateArbitaryConvexPolygon.exe.config
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\bin\Debug\GenerateArbitaryConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\bin\Debug\GenerateArbitaryConvexPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\bin\Debug\GenerateArbitaryConvexPolygon.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\bin\Debug\GenerateArbitaryConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\bin\Debug\GenerateArbitaryConvexPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task3 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\bin\Debug\GenerateArbitaryConvexPolygon.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\bin\Debug\GenerateArbitaryConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\bin\Debug\GenerateArbitaryConvexPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task3and4 - GenerateArbitaryConvexPolygon\obj\Debug\GenerateArbitaryConvexPolygon.pdb

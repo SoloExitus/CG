@@ -1,0 +1,10 @@
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\bin\Release\GenerateArbitaryNonConvexPolygon.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\bin\Release\GenerateArbitaryNonConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\bin\Release\GenerateArbitaryNonConvexPolygon.pdb
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\obj\Release\GenerateArbitaryNonConvexPolygon.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\obj\Release\GenerateArbitaryNonConvexPolygon.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\obj\Release\GenerateArbitaryNonConvexPolygon.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\obj\Release\GenerateArbitaryNonConvexPolygon.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\obj\Release\GenerateArbitaryNonConvexPolygon.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\obj\Release\GenerateArbitaryNonConvexPolygon.exe
+C:\Users\Idea\source\repos\ВычГем\Task2 - GenerateArbitaryNonConvexPolygon\obj\Release\GenerateArbitaryNonConvexPolygon.pdb

@@ -1,0 +1,10 @@
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\bin\Debug\Task8 - Intersection of segments.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\bin\Debug\Task8 - Intersection of segments.exe
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\bin\Debug\Task8 - Intersection of segments.pdb
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\obj\Debug\Task8 - Intersection of segments.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\obj\Debug\Task8___Intersection_of_segments.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\obj\Debug\Task8___Intersection_of_segments.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\obj\Debug\Task8 - Intersection of segments.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\obj\Debug\Task8 - Intersection of segments.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\obj\Debug\Task8 - Intersection of segments.exe
+C:\Users\Idea\source\repos\ВычГем\Task8 - Intersection of segments\obj\Debug\Task8 - Intersection of segments.pdb

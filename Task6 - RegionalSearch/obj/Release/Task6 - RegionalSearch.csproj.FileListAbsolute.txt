@@ -1,0 +1,10 @@
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\bin\Release\Task6 - RegionalSearch.exe.config
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\bin\Release\Task6 - RegionalSearch.exe
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\bin\Release\Task6 - RegionalSearch.pdb
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\obj\Release\Task6 - RegionalSearch.csprojAssemblyReference.cache
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\obj\Release\Task6___RegionalSearch.Form1.resources
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\obj\Release\Task6___RegionalSearch.Properties.Resources.resources
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\obj\Release\Task6 - RegionalSearch.csproj.GenerateResource.cache
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\obj\Release\Task6 - RegionalSearch.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\obj\Release\Task6 - RegionalSearch.exe
+C:\Users\Idea\source\repos\ВычГем\Task6 - RegionalSearch\obj\Release\Task6 - RegionalSearch.pdb
